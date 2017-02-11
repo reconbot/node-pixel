@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "color-string": "^1.2.0",
-    "firmata": "^0.14.1",
+    "firmata": "^0.15.0",
     "johnny-five": "^0.10.0"
   },
   "devDependencies": {
@@ -50,8 +50,8 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-exec": "^1.0.0",
     "grunt-todo": "^0.5.0",
-    "mock-firmata": "0.0.7",
-    "nodeunit": "^0.10.2",
+    "mock-firmata": "0.1.0",
+    "nodeunit": "^0.11.0",
     "sinon": "^1.17.2"
   }
 }
