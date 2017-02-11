@@ -1,5 +1,7 @@
 # Node Pixel
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/node-pixel.svg)](https://greenkeeper.io/)
+
 ![](https://img.shields.io/npm/v/node-pixel.svg)
 [![Join the chat at https://gitter.im/ajfisher/node-pixel](https://img.shields.io/badge/Gitter-Join%20Chat-brightgreen.svg)](https://gitter.im/ajfisher/node-pixel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://img.shields.io/badge/status-Ready-green.svg)
