@@ -7,7 +7,9 @@
     "example": "examples"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -38,7 +40,8 @@
   "dependencies": {
     "color-string": "^1.2.0",
     "firmata": "^0.14.1",
-    "johnny-five": "^0.10.0"
+    "johnny-five": "^0.10.0",
+    "snyk": "^1.83.0"
   },
   "devDependencies": {
     "board-io": "^3.0.4",
@@ -53,5 +56,6 @@
     "mock-firmata": "0.0.7",
     "nodeunit": "^0.10.2",
     "sinon": "^1.17.2"
-  }
+  },
+  "snyk": true
 }
