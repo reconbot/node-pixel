@@ -41,7 +41,7 @@
     "johnny-five": "^0.10.0"
   },
   "devDependencies": {
-    "board-io": "^3.0.4",
+    "board-io": "^3.0.5",
     "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "^1.0.0",
